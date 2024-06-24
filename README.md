@@ -1,4 +1,4 @@
-# Vim-Mono
+# Mono-Vim
 A somber monochromatic colorscheme with almost no syntax highlights
 
 <div>

@@ -16,7 +16,7 @@ if exists("syntax_on")
                  hi shShebang ctermbg=NONE ctermfg=15 cterm=NONE guibg=NONE guifg=#f7f7f7 gui=NONE
              hi Normal ctermbg=0 ctermfg=8 cterm=NONE guibg=#000000 guifg=#7c7c7c gui=NONE
              hi NonText ctermbg=NONE ctermfg=247 cterm=NONE guibg=NONE guifg=#a0a0a0 gui=NONE
-                 hi Comment ctermbg=NONE ctermfg=15 cterm=NONE guibg=NONE guifg=#f7f7f7 gui=NONE
+                 hi Comment ctermbg=NONE ctermfg=239 cterm=NONE guibg=NONE guifg=#525252 gui=NONE
              hi Constant ctermbg=NONE ctermfg=243 cterm=NONE guibg=NONE guifg=#747474 gui=NONE
              hi Error ctermbg=NONE ctermfg=247 cterm=NONE guibg=NONE guifg=#a0a0a0 gui=NONE
              hi Identifier ctermbg=NONE ctermfg=250 cterm=NONE guibg=NONE guifg=#b9b9b9 gui=NONE
@@ -84,7 +84,7 @@ elseif &t_Co == 8 || $TERM !~# '^linux' || &t_Co == 16
     hi shShebang ctermbg=NONE ctermfg=color16 cterm=NONE
     hi Normal ctermbg=color1 ctermfg=color2 cterm=NONE
     hi NonText ctermbg=NONE ctermfg=color4 cterm=NONE
-    hi Comment ctermbg=NONE ctermfg=color16 cterm=NONE
+    hi Comment ctermbg=NONE ctermfg=color9 cterm=NONE
     hi Constant ctermbg=NONE ctermfg=color14 cterm=NONE
     hi Error ctermbg=NONE ctermfg=color12 cterm=NONE
     hi Identifier ctermbg=NONE ctermfg=color8 cterm=NONE

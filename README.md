@@ -2,7 +2,7 @@
 A somber monochromatic colorscheme with almost no syntax highlights
 
 <div>
-	<img src="https://github.com/wolandark/Vim-Mono/assets/107309764/dbf1bac3-3998-46ba-8fb5-f9ac085f3153" style="width:50%">
+	<img src="https://github.com/wolandark/Vim-Mono/assets/107309764/dbf1bac3-3998-46ba-8fb5-f9ac085f3153" style="width:60%">
 </div>
 
 ### Setup
